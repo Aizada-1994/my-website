@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML 2-сабақ</title>
+</head>
+<body>
+  <h1>«Еркетай» бөбекжайы</h1>
+  <p><strong>Біздің мақсатымыз</strong> – балаларға мейірімді орта құру.</p>
+  <p><em>Бізге қосылыңыз!</em></p>
+
+  <a href="https://balabaqsha.kz">Біздің ресми сайт</a>
+
+  <br><br>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/320px-Example.jpg" alt="Сурет үлгісі" width="300">
+</body>
+</html>
