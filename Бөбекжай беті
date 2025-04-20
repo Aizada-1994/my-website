@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>5-сабақ: CSS</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial;
+    }
+
+    h1 {
+      color: darkblue;
+      text-align: center;
+    }
+
+    p {
+      background-color: #fff8dc;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>«Еркетай» бөбекжайына қош келдіңіз!</h1>
+
+  <p>Бұл біздің балабақша туралы ақпарат орналасқан бөлім.</p>
+
+  <button>Толығырақ</button>
+
+</body>
+</html>
